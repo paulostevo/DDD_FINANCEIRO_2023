@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 namespace Entities.Entidades
 {
     [Table("UsuarioSistemaFinanceiro")]
-    public class UsusarioSistemaFinanceiro
+    public class UsuarioSistemaFinanceiro
     {
         public int Id { get; set; }
         public string EmailUsuario { get; set; }
